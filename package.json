@@ -1,0 +1,14 @@
+{
+  "name": "job-search",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal job search automation: Kentucky + remote jobs matched against my resume",
+  "type": "module",
+  "scripts": {
+    "search": "node search.js",
+    "quick": "node search.js --quick"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

@@ -1,0 +1,8 @@
+# Personal data: never publish
+application-profile.json
+START-HERE.md
+cover-letters/
+data/
+reports/
+config.backup-*.json
+node_modules/
